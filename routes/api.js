@@ -15,6 +15,6 @@ const puppiesCtrl = require('../controllers/api/puppies')
 // router.get('/puppies:id', puppiesCtrl.update)
 
 //Delete a singel puppy by Id
-// router.get('/puppies:id', puppiesCtrl.delete)
+// router.get('/puppies:id', puppiesCtrl.remove)
 
 module.exports = router;
